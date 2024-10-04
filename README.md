@@ -1,4 +1,4 @@
-- 👋 Hi! I’m Rian, a second year CS student
+- 👋 Hi! I’m Rian, a third year CS student
 - 👀 I’m interested in web development, software engineering and machine learning 
 - 🌱 I’m currently learning C++ and JavaScript
 
